@@ -17,3 +17,7 @@
 - [ Improper CSRF token handling leads to site-wide CSRF issue, chained with clickjacking = woot! Multiple sites vulnerable ](https://blog.bugbountyhunter.com/improper-csrf-handling/)
 
 - [ How re-signing up for an account lead to account takeover ](https://blog.bugbountyhunter.com/account-takeover-bugbounty/)
+
+# Videos to Watch
+
+- [ IDOR explained - Zwink ](https://youtu.be/IgPnxlV9OdI)

@@ -18,3 +18,6 @@
 
 - [ Finding a XSS on Apple.com and building a POC to leak PII - data ](https://blog.bugbountyhunter.com/xss-on-apple/)
 
+### Videos to watch
+
+- [ Exploiting a Complex IDOR with Intruder and burpsuite](https://youtu.be/kkzRlZONTCs)

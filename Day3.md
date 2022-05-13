@@ -20,4 +20,6 @@
 
 ### Videos to watch
 
-- [ Exploiting a Complex IDOR with Intruder and burpsuite](https://youtu.be/kkzRlZONTCs)
+- [ Exploiting a Complex IDOR with Intruder and burpsuite - Zwink](https://youtu.be/kkzRlZONTCs)
+
+- [ CSRF vulnerability explained - Zwink ](https://youtu.be/KtJZB89YToQ)

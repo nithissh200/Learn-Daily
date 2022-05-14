@@ -18,4 +18,8 @@
 
 - [ XSS on Facebook CDN by bypassing Mime types ](https://whitton.io/articles/xss-on-facebook-via-png-content-types/)
 
-### 
+### Videos to Watch
+
+- [ Zwink's video on manual pentesting through a treasure gamification ](https://youtu.be/z5Ud5zF6c6o)
+
+- [ Reconnaisance on a simple way - Zwink ](https://youtu.be/rQvtTXkto_w)

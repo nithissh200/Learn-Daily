@@ -16,3 +16,6 @@
 
 - [ Multiple Vulnerabilites in Oculus developer portal ](https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal)
 
+### Blogs to Read
+
+- [ Authentication bypass - Zwink ](https://youtu.be/kqB_2hXKOtU)

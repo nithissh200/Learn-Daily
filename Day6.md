@@ -18,3 +18,4 @@
 
 ### Videos to watch 
 
+- [ XSS explained - Zwink ](https://youtu.be/Cz3prhhgeXk)

@@ -19,3 +19,5 @@
 ### Videos to watch 
 
 - [ XSS explained - Zwink ](https://youtu.be/Cz3prhhgeXk)
+
+- [ Interesting way of doing recon using burp - Zwink ](https://youtu.be/8TTE-MKqGds)

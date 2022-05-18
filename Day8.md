@@ -9,3 +9,8 @@
 - [ Stored XSS via file upload and affects site wide - Shopify ](https://hackerone.com/reports/232174)
 
 - [ Stored XSS on markdown parser - Automattic ](https://hackerone.com/reports/271007)
+
+### Blogs to Read 
+
+- [ Cloudflare Pages, part 1: The fellowship of the secret ](https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/)
+

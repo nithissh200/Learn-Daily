@@ -14,3 +14,6 @@
 
 - [ Cloudflare Pages, part 1: The fellowship of the secret ](https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/)
 
+- [ Cloudflare Pages, part 2: Privilege Escalation ](https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt2/)
+
+-

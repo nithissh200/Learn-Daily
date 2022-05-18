@@ -16,4 +16,4 @@
 
 - [ Cloudflare Pages, part 2: Privilege Escalation ](https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt2/)
 
--
+- [ Cloudflare Pages, part 3: Return of secrets ](https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt3/)

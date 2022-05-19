@@ -21,3 +21,5 @@
 ### Videos to watch
 
 - [ Log every bugs you find - Zwink ](https://youtu.be/Llvhr-T6x68)
+
+- [ SSRF on stripe - Bugbountyreportsexplained ](https://youtu.be/Ga9o--v-grA)

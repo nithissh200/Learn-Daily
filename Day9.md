@@ -17,3 +17,7 @@
 - [ Local file Read vulnerability on AWS ](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
 
 - [ Smuggling an Unexploitable XSS - RCEsecurity ](https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/)
+
+### Videos to watch
+
+- [ Log every bugs you find - Zwink ](https://youtu.be/Llvhr-T6x68)

@@ -10,3 +10,10 @@
 
 - [ Internal path disclosure by manipulating url-encoded-form - CSmoney ](https://hackerone.com/reports/979110)
 
+### Blogs to Read
+
+- [ How dangerous is leaking credentials via GitHub - Gitbleed ](https://www.notgitbleed.com/)
+
+- [ Local file Read vulnerability on AWS ](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
+
+- [ Smuggling an Unexploitable XSS - RCEsecurity ](https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss/)

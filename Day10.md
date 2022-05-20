@@ -15,3 +15,9 @@
 - [ Exploiting a double edged and fun SSRF ](https://www.yassineaboukir.com/blog/exploiting-a-double-edged-SSRF-for-server-and-client-side-impact/)
 
 - [ Dependency confusion - Explotitation ](https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013)
+
+### Videos to Watch 
+
+- [ Cloud malware talk by Insecure nature - Nahamcon ](https://youtu.be/C1NjaLO_GB0)
+
+- [ Bugbounty Reducted - Assetnote ](https://youtu.be/mWNaGn8xwoc)

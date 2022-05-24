@@ -9,3 +9,10 @@
 - [ SQL Injection on status check - US DoD ](https://hackerone.com/reports/419017)
 
 - [ SQL Injection due to vulnerability in Wordpress plugin ](https://hackerone.com/reports/273946)
+
+### Blogs to Read
+
+- [ Manual SQL injection discovery tips ](https://gerbenjavado.com/manual-sql-injection-discovery-tips/)
+
+- [ SQL Injection as md5 signature ](https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716)
+

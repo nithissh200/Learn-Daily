@@ -16,3 +16,6 @@
 
 - [ SQL Injection as md5 signature ](https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716)
 
+### Videos to watch 
+
+- [ LiveOverflow interview - General ](https://youtu.be/Sa5uI_uY-2c)

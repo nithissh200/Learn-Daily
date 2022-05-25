@@ -17,3 +17,7 @@
 - [ Blind SQL injection on a back end server ](https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d)
 
 - [ SQL injection on Harvard university](https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664)
+
+### Videos to watch
+
+- [ Habits to practice on the daily basis - STOK ](https://youtu.be/t3lwdl0zfPo)

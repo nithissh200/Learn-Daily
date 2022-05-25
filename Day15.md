@@ -15,3 +15,5 @@
 - [ Simple SQL injection on a VDP ](https://medium.com/@abhishake21/bug-bounty-in-lockdown-sqli-and-business-logic-98ab8cb5f661)
 
 - [ Blind SQL injection on a back end server ](https://medium.com/@amyrahm786/story-of-blind-sql-with-a-typo-error-43a21913c8d)
+
+- [ SQL injection on Harvard university](https://noob3xploiter.medium.com/sql-injection-in-harvard-subdomain-be67a5dbf664)

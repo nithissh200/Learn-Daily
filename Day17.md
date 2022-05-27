@@ -17,3 +17,7 @@
 - [ SQL injection automation using FFUF and SQLmap ](https://infosecwriteups.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-2824cd4dfab)
 
 - [ SQL injection on IBM administrator panel ](https://cyberguy0xd1.medium.com/my-write-up-in-hacking-ibms-administration-panel-and-getting-sqli-on-it-51404c7bee27)
+
+### Videos to watch
+
+- [ Frans Rosen talk on Secret life of bugbounty ](https://youtu.be/KDo68Laayh8)

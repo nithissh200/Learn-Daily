@@ -17,3 +17,7 @@
 - [ Grafana path traversal zero day explained ](https://labs.detectify.com/2021/12/15/zero-day-path-traversal-grafana/)
 
 - [ Path traversal via HTML injection on email functionality](https://medium.com/@maxime.escourbiac/write-up-of-path-traversal-on-gravitee-io-8835941be69f)
+
+### Videos to watch
+
+- [ DEFCON 22 talk - Screw up and grew up becoming a Bugbounty hunter ](https://youtu.be/IlaBDrNd82U)

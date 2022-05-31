@@ -11,3 +11,9 @@
 ### Blogs to Read
 
 - [ Chaining of multiple vulnerabilities](https://f002.backblazeb2.com/file/sec-news-backup/files/writeup/www.ibrahim-elsayed.com/_/index.html)
+
+- [ Path traversal paradise - Synack ](https://www.synack.com/blog/path-traversal-paradise/)
+
+### Videos to watch
+
+- [ How to shot a web - DEFCON talk ](https://youtu.be/-FAjxUOKbdI)

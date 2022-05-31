@@ -8,3 +8,6 @@
 
 - [ Path traversal by bypassing previous patch - Apache IBB ](https://hackerone.com/reports/1404731)
 
+### Blogs to Read
+
+- [ Chaining of multiple vulnerabilities](https://f002.backblazeb2.com/file/sec-news-backup/files/writeup/www.ibrahim-elsayed.com/_/index.html)

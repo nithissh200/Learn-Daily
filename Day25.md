@@ -4,3 +4,4 @@
 
 - [ Talk on Commonspeak 2 - Assetnote - DEFCON ](https://youtu.be/GxkuBFUfnL8)
 
+- [ Finding Vulnerabilities in Metaverse - Nullcon ](https://youtu.be/Yk5PJ-FrIpI)

@@ -2,3 +2,5 @@
 
 - [ Talk about finding ephemeral vulnerabilities by continuous monitoring - Assetnote ](https://youtu.be/C85ZOJgufuw)
 
+- [ Talk on Commonspeak 2 - Assetnote - DEFCON ](https://youtu.be/GxkuBFUfnL8)
+

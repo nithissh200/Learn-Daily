@@ -9,3 +9,7 @@
 - [ Google Scholar XSS by using polymorphic image ](https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html)
 
 - [ Cross site scripting in Netflix Party ](https://medium.com/@kr_b/netflix-party-simple-xss-ec92ed1d7e18)
+
+### Videos to watch
+
+- [ Talk about Secrets of Google VRP - Security conference ](https://youtu.be/ueEsOnHJZ80)

@@ -11,3 +11,5 @@
 - [ The Tricky XSS ](https://smaranchand.com.np/2020/02/the-tricky-xss/)
 
 ### Videos to watch
+
+- [ Hunting on Pinterest for two weeks - Zwink ](https://youtu.be/HnCPyNbh8mQ)

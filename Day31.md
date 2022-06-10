@@ -13,3 +13,7 @@
 - [ Chaining a self XSS to a valid one using CSRF ](https://medium.com/@abhishake21/how-i-turned-self-xss-to-stored-via-csrf-d12eaaf59f2e)
 
 - [ Blind XSS via character limitation bypass ](https://medium.com/@mohameddaher/how-i-paid-2-for-1054-xss-bug-20-chars-blind-xss-payloads-12d32760897b)
+
+### Videos to watch 
+
+- [ All about playing with file upload functionality - Zwink](https://youtu.be/J5aPch4XVIM)

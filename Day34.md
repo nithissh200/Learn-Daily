@@ -11,3 +11,7 @@
 - [ Parameter pollution to a XSS bypass ](https://medium.com/@momenbasel/from-parameter-pollution-to-xss-d095e13be060)
 
 - [ Mime Sniffing XSS on Google ](https://www.komodosec.com/post/mime-sniffing-xss)
+
+### Videos to watch
+
+- [ Breaking application and policy abuse - Fransrosen ](https://youtu.be/_VsFrYAjJ8k)

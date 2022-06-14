@@ -11,3 +11,7 @@
 - [ A Tale of finding 3 XSS in synack ](https://gauravnarwani.com/a-tale-of-3-xss/)
 
 - [ Simple XSS on Google admin subdomain ](https://buer.haus/2015/01/21/admin-google-com-reflected-cross-site-scripting-xss/)
+
+### Videos to watch
+
+- [ Hunting for evasive vulnerabilities - James kettle - Nullcon ](https://youtu.be/skbKjO8ahCI)

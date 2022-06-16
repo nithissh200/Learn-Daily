@@ -12,3 +12,6 @@
 
 - [ Javascript Injection by bypassing SOP ](https://arbazhussain.medium.com/xss-using-dynamically-generated-js-file-a7a10d05ff08)
 
+### Videos to watch 
+
+- [ Bugbounty Mindset Explained - Zwink ](https://youtu.be/lxEsSlh1ua8)

@@ -12,3 +12,7 @@
 
 - [ Reflected XSS on a Google code Jam ](https://websecblog.com/vulns/reflected-xss-in-google-code-jam/)
 
+- [ Stored XSS on webcomponents page ](https://websecblog.com/vulns/stored-xss-in-webcomponents-org/)
+
+- [ Double XSS on multiple functionalities on hubspot](https://medium.com/@friendly_/xss-at-hubspot-and-xss-in-email-areas-674fa39d5248)
+

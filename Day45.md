@@ -8,3 +8,5 @@
 ### Videos to watch
 
 - [ Bitcoin whitepaper explained ](https://youtu.be/Dpqtav3oT4k)
+
+- [ Double Spending risk explained ](https://youtu.be/yBwDGby1yZA)

@@ -9,3 +9,5 @@
 ### Videos to watch
 
 - [ Proof of stakes vs Proof of work - Simply explained ](https://youtu.be/M3EFi_POhps)
+- [Bitcoin and Crypto currency mining explained ](https://youtu.be/kZXXDp0_R-w)
+- [ Bitcoin Mining Difficulties ](https://youtu.be/o1gOyhU6XEw)

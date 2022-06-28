@@ -12,3 +12,4 @@
 
 - [ 51 % attack - Crypto Sketch 101 ](https://youtu.be/01a7HAkEK3I)
 
+- [ How ethereum is different from bitcoin ](https://youtu.be/AvK9I__fBVc)

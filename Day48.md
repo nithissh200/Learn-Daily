@@ -10,3 +10,4 @@
 ### Videos to watch 
 
 - [ Hash Function - Eth build ](https://youtu.be/QJ010l-pBpE)
+- [ Key pair - Eth Build ](https://youtu.be/mhwSGYRmkEU)

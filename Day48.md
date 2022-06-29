@@ -6,3 +6,7 @@
 - [ What's the difference between Ethereum and Ether. How it works ? ](https://www.investopedia.com/tech/what-ether-it-same-ethereum/)
 - [ How Ethereum transaction model works ?](https://ethereum.org/en/developers/docs/transactions/)
 - [ Classification in Ethereum accounts ](https://ethereum.org/en/developers/docs/accounts/)
+
+### Videos to watch 
+
+- [ Hash Function - Eth build ](https://youtu.be/QJ010l-pBpE)

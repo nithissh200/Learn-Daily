@@ -10,3 +10,4 @@
 ### Videos to watch
 
 - [ what is crypto wallets and types ](https://youtu.be/d8IBpfs9bf4) 
+- [ relationship between private keys and public in Ethereum](https://youtu.be/AiB5x7iDGJ4)

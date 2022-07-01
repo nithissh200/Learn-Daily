@@ -10,3 +10,4 @@
 
 - [ Difference between Testnet and Mainnet in Ethereum ](https://youtu.be/VSHlxfAOqTY)
 - [ How EIP works and what is EIP 1559 ? ](https://youtu.be/MGemhK9t44Q)
+- [ Types of ERC Standards and their explanation](https://youtu.be/-cknquI5LGA)

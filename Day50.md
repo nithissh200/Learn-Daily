@@ -3,6 +3,7 @@
 ### Blogs to Read
 
 - [ Testnet vs Mainnet in Ethereum ](https://ethereum.org/en/developers/docs/networks/)
+- [ How Ethereum Improvement protocol works ? ](https://eips.ethereum.org/)
 
 ### Videos to watch
 

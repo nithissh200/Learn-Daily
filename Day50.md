@@ -4,6 +4,7 @@
 
 - [ Testnet vs Mainnet in Ethereum ](https://ethereum.org/en/developers/docs/networks/)
 - [ How Ethereum Improvement protocol works ? ](https://eips.ethereum.org/)
+- [ How ERC Standard works and their types ](https://finance.yahoo.com/news/guide-ethereum-erc-standards-150024381.html)
 
 ### Videos to watch
 

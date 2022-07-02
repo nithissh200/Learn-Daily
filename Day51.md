@@ -11,3 +11,4 @@
 
 - [ How ERC20 standard works ? ](https://youtu.be/cqZhNzZoMh8)
 - [ ERC721 Standards explained](https://youtu.be/QFYU81zM_jA)
+- [ Ethereum Virtual machine Explained ](https://youtu.be/HfTTbxQWWvg)

@@ -11,3 +11,5 @@
 - [ Metamask wallets explained ](https://youtu.be/byWul4xOBx0)
 
 - [ AAVE and their lending process ](https://youtu.be/dTCwssZ116A)
+
+- [ Rug pull in crypto and how people get scammed in web3 world ](https://youtu.be/YFaqng3YESE)
